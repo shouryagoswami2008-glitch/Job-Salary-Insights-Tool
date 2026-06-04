@@ -1,0 +1,11 @@
+Title,Company,Location,Salary Min,Salary Max,Contract Type,Created
+Data Scientist,TechCorp,"San Francisco, CA",130000,180000,permanent,2024-05-20T12:00:00Z
+Senior Data Scientist,DataViz Inc,"New York, NY",160000,220000,permanent,2024-05-21T09:00:00Z
+Junior Data Analyst,RetailFlow,"Austin, TX",70000,95000,permanent,2024-05-22T14:30:00Z
+Machine Learning Engineer,AI Solutions,"Seattle, WA",140000,200000,permanent,2024-05-23T11:15:00Z
+Data Scientist,HealthTech,"Boston, MA",125000,170000,permanent,2024-05-24T16:45:00Z
+Lead Data Scientist,FinData,"Chicago, IL",180000,250000,permanent,2024-05-25T10:00:00Z
+Data Analyst,MarketInsights,"Denver, CO",85000,110000,permanent,2024-05-26T13:20:00Z
+Data Scientist,AutoAI,"Detroit, MI",110000,150000,permanent,2024-05-27T08:50:00Z
+Principal Data Scientist,CloudScale,Remote,200000,280000,permanent,2024-05-28T15:10:00Z
+Data Analyst,LogiTrack,"Atlanta, GA",80000,105000,permanent,2024-05-29T12:35:00Z
