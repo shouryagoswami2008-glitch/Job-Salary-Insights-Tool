@@ -6,8 +6,8 @@ import os
 # For this project, we'll simulate the API call or use a mock response
 # if credentials are not available, to demonstrate the workflow.
 
-ADZUNA_APP_ID = "cf0fe6d6"
-ADZUNA_APP_KEY = "7a8fdfdd4dacd94b2e41d68663acd7cc"
+ADZUNA_APP_ID = ""
+ADZUNA_APP_KEY = ""
 
 def fetch_jobs_adzuna(job_title, country='us', results_per_page=50):
     url = f"http://api.adzuna.com/v1/api/jobs/{country}/search/1"
